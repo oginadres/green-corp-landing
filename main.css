@@ -191,7 +191,7 @@ a {
       transform:rotate(360deg);
   }
 }
-
+/* Планшеты */
 @media (max-width: 1024px) {
   .about {
       padding: 115px 20px;
@@ -212,6 +212,7 @@ a {
   }
 }
 
+/* Мобильные устройства */
 @media (max-width: 720px) {
   header {
       padding: 10px;
